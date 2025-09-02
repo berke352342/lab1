@@ -1,50 +1,12 @@
-/* body  */
-body {
-  margin: 0;
-  background-color: aliceblue;
-  font-family: sans-serif;
-
-}
-/* header  */
-    header {
-      width: 100%;
-      text-align: center;
-    }
-
-/* title */ /* title */ /* h1 is selector margin: 0; is declaration margin is property 0 is value */
-   h1 {
-      background-color: aliceblue;
-      color: rgb(0, 0, 0);
-      padding: 20px;
-      margin: 0;
-    }
-
-/* paragraph */
-p {
-  background-color: #cdff03;
-  color: rgb(0, 0, 0); 
-  font-size: 18px; 
-}
-
-/* navigation */
-nav {
-  display: flex;              
-  justify-content: center;    
-  gap: 20px;                 
-  background-color: lightgray;
-  padding: 10px;
-}
-
-nav a {
-  text-decoration: none; 
-  color: darkblue;
-  font-weight: bold;
-}
-
-/* section part */
-section { 
-  padding: 20px;
-  margin: 10px;
-}
-
+    /* title */ /* h1: selector  declaration: margin: 0; property: margin value: 0; */
+    /* h1: selector */
+    /* declaration: padding: 20px; */
+    /* property: padding */
+    /* value: 20px; */
+    h1 {
+        background-color: rgb(7, 7, 7);
+        color: rgb(255, 255, 255);
+        padding: 20px;
+        margin: 0;
+        }
 
