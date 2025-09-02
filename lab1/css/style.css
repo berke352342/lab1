@@ -11,7 +11,7 @@ body {
       text-align: center;
     }
 
-/* title */
+/* title */ /* title */ /* h1 is selector margin: 0; is declaration margin is property 0 is value */
    h1 {
       background-color: aliceblue;
       color: rgb(0, 0, 0);
@@ -46,3 +46,4 @@ section {
   padding: 20px;
   margin: 10px;
 }
+
