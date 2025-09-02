@@ -1,0 +1,48 @@
+/* body  */
+body {
+  margin: 0;
+  background-color: aliceblue;
+  font-family: sans-serif;
+
+}
+
+    header {
+      width: 100%;
+      text-align: center;
+    }
+
+/* title */
+   h1 {
+      background-color: aliceblue;
+      color: rgb(0, 0, 0);
+      padding: 20px;
+      margin: 0;
+    }
+
+/* paragraph */
+p {
+  background-color: #cdff03;
+  color: rgb(0, 0, 0); 
+  font-size: 18px; 
+}
+
+/* navigation */
+nav {
+  display: flex;              
+  justify-content: center;    
+  gap: 20px;                 
+  background-color: lightgray;
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none; 
+  color: darkblue;
+  font-weight: bold;
+}
+
+/* section part */
+section { 
+  padding: 20px;
+  margin: 10px;
+}
